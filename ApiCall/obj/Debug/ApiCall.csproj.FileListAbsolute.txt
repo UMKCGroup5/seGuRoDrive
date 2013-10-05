@@ -1,0 +1,13 @@
+c:\users\veerlaa\documents\visual studio 2010\Projects\ApiCall\ApiCall\bin\ApiCall.dll
+c:\users\veerlaa\documents\visual studio 2010\Projects\ApiCall\ApiCall\bin\ApiCall.pdb
+c:\users\veerlaa\documents\visual studio 2010\Projects\ApiCall\ApiCall\obj\Debug\ApiCall.dll
+c:\users\veerlaa\documents\visual studio 2010\Projects\ApiCall\ApiCall\obj\Debug\ApiCall.pdb
+D:\Sushil\RND\ApiCall\ApiCall\ApiCall\bin\ApiCall.dll
+D:\Sushil\RND\ApiCall\ApiCall\ApiCall\bin\ApiCall.pdb
+D:\Sushil\RND\ApiCall\ApiCall\ApiCall\obj\Debug\ApiCall.dll
+D:\Sushil\RND\ApiCall\ApiCall\ApiCall\obj\Debug\ApiCall.pdb
+C:\Users\Karthik\Desktop\New project\ApiCall\ApiCall\bin\ApiCall.dll
+C:\Users\Karthik\Desktop\New project\ApiCall\ApiCall\bin\ApiCall.pdb
+C:\Users\Karthik\Desktop\New project\ApiCall\ApiCall\obj\Debug\ApiCall.dll
+C:\Users\Karthik\Desktop\New project\ApiCall\ApiCall\obj\Debug\ApiCall.pdb
+C:\Users\Karthik\Desktop\New project\ApiCall\ApiCall\obj\Debug\ApiCall.csprojResolveAssemblyReference.cache
